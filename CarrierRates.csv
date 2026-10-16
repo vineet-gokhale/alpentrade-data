@@ -1,0 +1,13 @@
+Carrier,Zone,BaseRateEUR
+DHL,Zone 1,6.5
+DHL,Zone 2,9.0
+DHL,Zone 3,14.5
+DB Schenker,Zone 1,5.85
+DB Schenker,Zone 2,8.1
+DB Schenker,Zone 3,13.05
+Dachser,Zone 1,5.52
+Dachser,Zone 2,7.65
+Dachser,Zone 3,12.32
+UPS,Zone 1,7.47
+UPS,Zone 2,10.35
+UPS,Zone 3,16.67
